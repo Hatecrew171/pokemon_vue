@@ -28,8 +28,9 @@ Una aplicación interactiva inspirada en el clásico juego de adivinanza de los 
 
 ### **1. Clona este repositorio:**
 ```bash
-git clone https://github.com/tu-usuario/pokemon-guessing-game.git
-cd pokemon-guessing-game
+vue create pokemon
+cd pokemon
+git clone https://github.com/Hatecrew171/pokemon_vue.git
 ```
 
 ### **2. Instala las dependencias:**
